@@ -22,6 +22,7 @@ phoneBook/
 │   ├── main.c      # 程序主入口
 │   ├── telephon.c  # 通讯录核心功能模块
 │   └── telephon.h  # 通讯录模块头文件
+├── test/           # 测试相关文件
 ```
 
 ## 快速开始
